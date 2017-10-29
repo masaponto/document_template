@@ -1,0 +1,7 @@
+---
+title: "super cool title"
+subtitle: "sub"
+author: [Author]
+date: \today
+titlepage: true
+...
